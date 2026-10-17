@@ -1,0 +1,28 @@
+# Keep repo-wide text handling predictable for the Markdown/Python content.
+* text=auto
+
+# --- Byte-exact challenge artifacts --------------------------------------
+# Forensics evidence and precompiled targets must survive checkout unchanged.
+# Without this, Git's CRLF normalisation silently rewrites captured HTTP
+# headers (web/gate-zero/work/sw.hdr) and can corrupt binary inputs.
+*.safetensors binary
+*.so     binary
+*.so.6   binary
+*.flac   binary
+*.pyc    binary
+*.bin    binary
+*.zip    binary
+*.wasm   binary
+*.epub   binary
+*.ttf    binary
+*.jpg    binary
+*.jpeg   binary
+*.png    binary
+*.pcap   binary
+*.pcapng binary
+
+# Extensionless ELF targets and captured HTTP headers
+/fraude              binary
+**/fraude            binary
+**/label_renderer    binary
+**/sw.hdr            binary

@@ -1,0 +1,6 @@
+{
+	"cargo": "SIT-TRAINING-CONTAINER",
+	"destination": "BRANI_GATE_04",
+	"profile": "standard.label",
+	"training_clearance_token": "PA-TRAINING-CLEARANCE-CANARY-NOT-FINAL"
+}

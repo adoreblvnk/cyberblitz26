@@ -1,0 +1,1 @@
+ORDER|table=07|drink=kopi-o-kosong|status=paid|

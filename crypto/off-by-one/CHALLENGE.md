@@ -1,0 +1,1 @@
+Our ECDSA signing service (with SHA-256 and NIST's P-256 curve) passed its audit with flying colors: "Nonces are never reused." We checked, they aren't. But there's something off...check out the two given signatures and retrieve the private signing key. The flag is obtained by XORing the given ciphertext with the retrieved key.

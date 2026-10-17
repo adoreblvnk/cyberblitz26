@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "skills": {
+    "android-reverse-engineering": {
+      "source": "simoneavogadro/android-reverse-engineering-skill",
+      "sourceType": "github",
+      "skillPath": "plugins/android-reverse-engineering/skills/android-reverse-engineering/SKILL.md",
+      "computedHash": "93e1c5083da1f702e7591ea7a7760d49f8dd7fad1a4b6b73c4e94965095e78a4"
+    },
+    "ctf-ai-ml": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-ai-ml/SKILL.md",
+      "computedHash": "6f08e1823366c62be3e7f179543ea26222e4f0c138370cc114232a333a00c776"
+    },
+    "ctf-crypto": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-crypto/SKILL.md",
+      "computedHash": "bf96993ecf41f0a95e88c7fedd6190a65406ab80d38ea3745d4da3ccc3f5aa58"
+    },
+    "ctf-forensics": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-forensics/SKILL.md",
+      "computedHash": "767839a6af711fc0e10e4af9a39d44f88ca92283a3e07302072481fcd0220e3c"
+    },
+    "ctf-malware": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-malware/SKILL.md",
+      "computedHash": "744faf54f787bb80c85bb2b711b68bfa54749cbf4fbed8c3e93905f3081fabac"
+    },
+    "ctf-misc": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-misc/SKILL.md",
+      "computedHash": "2174ce2e86a06bdff9e42e57524e66e86aa4773e688d1cf61ce49efef0177ec1"
+    },
+    "ctf-osint": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-osint/SKILL.md",
+      "computedHash": "ff7c4719d2d40e6cd0b932e2d2f8a7f5514c838345f4dcfc27f15e04967d69bb"
+    },
+    "ctf-pwn": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-pwn/SKILL.md",
+      "computedHash": "b7230f00a4fcb6e31be1d630d83dc7b1a2027ff70a71f61ce6bb0dff6baece64"
+    },
+    "ctf-reverse": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-reverse/SKILL.md",
+      "computedHash": "07ce719d97bda231b99e58907ddfab5c82143b76c6ef7e68e1dc84cafd9d3c66"
+    },
+    "ctf-web": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-web/SKILL.md",
+      "computedHash": "fec170a3cce8a130ad91ff581151e6786c359ef0b2b17d1c43776b5068c71284"
+    },
+    "ctf-writeup": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "ctf-writeup/SKILL.md",
+      "computedHash": "11d59cfa80c3af2a162e8076f65ece1a930b0f872c39d9adae23eb94be1bcb39"
+    },
+    "ghidra-headless": {
+      "source": "trailofbits/skills-curated",
+      "sourceType": "github",
+      "skillPath": "plugins/ghidra-headless/skills/ghidra-headless/SKILL.md",
+      "computedHash": "a1eaf804c217721003163fa8c5a3993332899dba7f79361c1dc3379f0231dc7d"
+    },
+    "solve-challenge": {
+      "source": "ljagiello/ctf-skills",
+      "sourceType": "github",
+      "skillPath": "solve-challenge/SKILL.md",
+      "computedHash": "60200794e61775c174d7c36b88e02d2ae2515700e12a4d789d6d7be37a040267"
+    },
+    "steganography-techniques": {
+      "source": "yaklang/hack-skills",
+      "sourceType": "github",
+      "skillPath": "skills/steganography-techniques/SKILL.md",
+      "computedHash": "0ae04d686334ed42243b3b461565bdafb2f2217bc6233077df121043bdd9e307"
+    }
+  }
+}

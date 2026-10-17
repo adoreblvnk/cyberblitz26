@@ -1,0 +1,2364 @@
+[
+  {
+    "word": "a",
+    "token_ids": [
+      263
+    ]
+  },
+  {
+    "word": "active",
+    "token_ids": [
+      6136
+    ]
+  },
+  {
+    "word": "add",
+    "token_ids": [
+      788
+    ]
+  },
+  {
+    "word": "adult",
+    "token_ids": [
+      16157
+    ]
+  },
+  {
+    "word": "an",
+    "token_ids": [
+      385
+    ]
+  },
+  {
+    "word": "and",
+    "token_ids": [
+      322
+    ]
+  },
+  {
+    "word": "angry",
+    "token_ids": [
+      26230
+    ]
+  },
+  {
+    "word": "are",
+    "token_ids": [
+      526
+    ]
+  },
+  {
+    "word": "art",
+    "token_ids": [
+      1616
+    ]
+  },
+  {
+    "word": "artist",
+    "token_ids": [
+      7664
+    ]
+  },
+  {
+    "word": "at",
+    "token_ids": [
+      472
+    ]
+  },
+  {
+    "word": "baby",
+    "token_ids": [
+      24354
+    ]
+  },
+  {
+    "word": "back",
+    "token_ids": [
+      1250
+    ]
+  },
+  {
+    "word": "ball",
+    "token_ids": [
+      8287
+    ]
+  },
+  {
+    "word": "bank",
+    "token_ids": [
+      9124
+    ]
+  },
+  {
+    "word": "be",
+    "token_ids": [
+      367
+    ]
+  },
+  {
+    "word": "bear",
+    "token_ids": [
+      11460
+    ]
+  },
+  {
+    "word": "bed",
+    "token_ids": [
+      6592
+    ]
+  },
+  {
+    "word": "begin",
+    "token_ids": [
+      3380
+    ]
+  },
+  {
+    "word": "big",
+    "token_ids": [
+      4802
+    ]
+  },
+  {
+    "word": "bird",
+    "token_ids": [
+      11199
+    ]
+  },
+  {
+    "word": "bitter",
+    "token_ids": [
+      22773
+    ]
+  },
+  {
+    "word": "blue",
+    "token_ids": [
+      7254
+    ]
+  },
+  {
+    "word": "boat",
+    "token_ids": [
+      13006
+    ]
+  },
+  {
+    "word": "book",
+    "token_ids": [
+      3143
+    ]
+  },
+  {
+    "word": "bottom",
+    "token_ids": [
+      5970
+    ]
+  },
+  {
+    "word": "boy",
+    "token_ids": [
+      8023
+    ]
+  },
+  {
+    "word": "brave",
+    "token_ids": [
+      26565
+    ]
+  },
+  {
+    "word": "break",
+    "token_ids": [
+      2867
+    ]
+  },
+  {
+    "word": "bridge",
+    "token_ids": [
+      12945
+    ]
+  },
+  {
+    "word": "bright",
+    "token_ids": [
+      11785
+    ]
+  },
+  {
+    "word": "bring",
+    "token_ids": [
+      6963
+    ]
+  },
+  {
+    "word": "build",
+    "token_ids": [
+      2048
+    ]
+  },
+  {
+    "word": "bus",
+    "token_ids": [
+      3593
+    ]
+  },
+  {
+    "word": "but",
+    "token_ids": [
+      541
+    ]
+  },
+  {
+    "word": "by",
+    "token_ids": [
+      491
+    ]
+  },
+  {
+    "word": "cable",
+    "token_ids": [
+      21387
+    ]
+  },
+  {
+    "word": "call",
+    "token_ids": [
+      1246
+    ]
+  },
+  {
+    "word": "calm",
+    "token_ids": [
+      21732
+    ]
+  },
+  {
+    "word": "can",
+    "token_ids": [
+      508
+    ]
+  },
+  {
+    "word": "car",
+    "token_ids": [
+      1559
+    ]
+  },
+  {
+    "word": "carry",
+    "token_ids": [
+      8677
+    ]
+  },
+  {
+    "word": "cat",
+    "token_ids": [
+      6635
+    ]
+  },
+  {
+    "word": "chair",
+    "token_ids": [
+      11774
+    ]
+  },
+  {
+    "word": "check",
+    "token_ids": [
+      1423
+    ]
+  },
+  {
+    "word": "chef",
+    "token_ids": [
+      14547
+    ]
+  },
+  {
+    "word": "child",
+    "token_ids": [
+      2278
+    ]
+  },
+  {
+    "word": "chip",
+    "token_ids": [
+      29830
+    ]
+  },
+  {
+    "word": "class",
+    "token_ids": [
+      770
+    ]
+  },
+  {
+    "word": "clean",
+    "token_ids": [
+      5941
+    ]
+  },
+  {
+    "word": "clear",
+    "token_ids": [
+      2821
+    ]
+  },
+  {
+    "word": "click",
+    "token_ids": [
+      2828
+    ]
+  },
+  {
+    "word": "clock",
+    "token_ids": [
+      12006
+    ]
+  },
+  {
+    "word": "close",
+    "token_ids": [
+      3802
+    ]
+  },
+  {
+    "word": "cloud",
+    "token_ids": [
+      9570
+    ]
+  },
+  {
+    "word": "coach",
+    "token_ids": [
+      11182
+    ]
+  },
+  {
+    "word": "code",
+    "token_ids": [
+      775
+    ]
+  },
+  {
+    "word": "cold",
+    "token_ids": [
+      11220
+    ]
+  },
+  {
+    "word": "color",
+    "token_ids": [
+      2927
+    ]
+  },
+  {
+    "word": "compress",
+    "token_ids": [
+      27122
+    ]
+  },
+  {
+    "word": "copy",
+    "token_ids": [
+      3509
+    ]
+  },
+  {
+    "word": "could",
+    "token_ids": [
+      1033
+    ]
+  },
+  {
+    "word": "court",
+    "token_ids": [
+      8973
+    ]
+  },
+  {
+    "word": "cover",
+    "token_ids": [
+      4612
+    ]
+  },
+  {
+    "word": "create",
+    "token_ids": [
+      1653
+    ]
+  },
+  {
+    "word": "crowd",
+    "token_ids": [
+      19174
+    ]
+  },
+  {
+    "word": "cut",
+    "token_ids": [
+      5700
+    ]
+  },
+  {
+    "word": "damage",
+    "token_ids": [
+      18658
+    ]
+  },
+  {
+    "word": "dance",
+    "token_ids": [
+      17948
+    ]
+  },
+  {
+    "word": "dark",
+    "token_ids": [
+      6501
+    ]
+  },
+  {
+    "word": "deep",
+    "token_ids": [
+      6483
+    ]
+  },
+  {
+    "word": "delete",
+    "token_ids": [
+      5217
+    ]
+  },
+  {
+    "word": "depth",
+    "token_ids": [
+      10809
+    ]
+  },
+  {
+    "word": "destroy",
+    "token_ids": [
+      8174
+    ]
+  },
+  {
+    "word": "did",
+    "token_ids": [
+      1258
+    ]
+  },
+  {
+    "word": "dim",
+    "token_ids": [
+      3964
+    ]
+  },
+  {
+    "word": "disk",
+    "token_ids": [
+      8086
+    ]
+  },
+  {
+    "word": "do",
+    "token_ids": [
+      437
+    ]
+  },
+  {
+    "word": "doctor",
+    "token_ids": [
+      11619
+    ]
+  },
+  {
+    "word": "does",
+    "token_ids": [
+      947
+    ]
+  },
+  {
+    "word": "dog",
+    "token_ids": [
+      11203
+    ]
+  },
+  {
+    "word": "door",
+    "token_ids": [
+      3050
+    ]
+  },
+  {
+    "word": "down",
+    "token_ids": [
+      1623
+    ]
+  },
+  {
+    "word": "download",
+    "token_ids": [
+      5142
+    ]
+  },
+  {
+    "word": "drag",
+    "token_ids": [
+      8338
+    ]
+  },
+  {
+    "word": "drive",
+    "token_ids": [
+      7899
+    ]
+  },
+  {
+    "word": "drop",
+    "token_ids": [
+      5768
+    ]
+  },
+  {
+    "word": "dry",
+    "token_ids": [
+      15589
+    ]
+  },
+  {
+    "word": "dynamic",
+    "token_ids": [
+      7343
+    ]
+  },
+  {
+    "word": "edit",
+    "token_ids": [
+      3863
+    ]
+  },
+  {
+    "word": "else",
+    "token_ids": [
+      1683
+    ]
+  },
+  {
+    "word": "empty",
+    "token_ids": [
+      4069
+    ]
+  },
+  {
+    "word": "end",
+    "token_ids": [
+      1095
+    ]
+  },
+  {
+    "word": "enemy",
+    "token_ids": [
+      11103
+    ]
+  },
+  {
+    "word": "energy",
+    "token_ids": [
+      5864
+    ]
+  },
+  {
+    "word": "expand",
+    "token_ids": [
+      7985
+    ]
+  },
+  {
+    "word": "export",
+    "token_ids": [
+      5609
+    ]
+  },
+  {
+    "word": "expose",
+    "token_ids": [
+      24396
+    ]
+  },
+  {
+    "word": "extract",
+    "token_ids": [
+      6597
+    ]
+  },
+  {
+    "word": "fall",
+    "token_ids": [
+      6416
+    ]
+  },
+  {
+    "word": "false",
+    "token_ids": [
+      2089
+    ]
+  },
+  {
+    "word": "fan",
+    "token_ids": [
+      13524
+    ]
+  },
+  {
+    "word": "far",
+    "token_ids": [
+      2215
+    ]
+  },
+  {
+    "word": "fast",
+    "token_ids": [
+      5172
+    ]
+  },
+  {
+    "word": "field",
+    "token_ids": [
+      1746
+    ]
+  },
+  {
+    "word": "file",
+    "token_ids": [
+      934
+    ]
+  },
+  {
+    "word": "fill",
+    "token_ids": [
+      5445
+    ]
+  },
+  {
+    "word": "film",
+    "token_ids": [
+      2706
+    ]
+  },
+  {
+    "word": "find",
+    "token_ids": [
+      1284
+    ]
+  },
+  {
+    "word": "fire",
+    "token_ids": [
+      3974
+    ]
+  },
+  {
+    "word": "first",
+    "token_ids": [
+      937
+    ]
+  },
+  {
+    "word": "fish",
+    "token_ids": [
+      9427
+    ]
+  },
+  {
+    "word": "floor",
+    "token_ids": [
+      11904
+    ]
+  },
+  {
+    "word": "fly",
+    "token_ids": [
+      11340
+    ]
+  },
+  {
+    "word": "folder",
+    "token_ids": [
+      4138
+    ]
+  },
+  {
+    "word": "for",
+    "token_ids": [
+      363
+    ]
+  },
+  {
+    "word": "force",
+    "token_ids": [
+      4889
+    ]
+  },
+  {
+    "word": "fresh",
+    "token_ids": [
+      10849
+    ]
+  },
+  {
+    "word": "friend",
+    "token_ids": [
+      5121
+    ]
+  },
+  {
+    "word": "from",
+    "token_ids": [
+      515
+    ]
+  },
+  {
+    "word": "front",
+    "token_ids": [
+      4565
+    ]
+  },
+  {
+    "word": "game",
+    "token_ids": [
+      3748
+    ]
+  },
+  {
+    "word": "gate",
+    "token_ids": [
+      12417
+    ]
+  },
+  {
+    "word": "gentle",
+    "token_ids": [
+      9914
+    ]
+  },
+  {
+    "word": "get",
+    "token_ids": [
+      679
+    ]
+  },
+  {
+    "word": "girl",
+    "token_ids": [
+      7826
+    ]
+  },
+  {
+    "word": "give",
+    "token_ids": [
+      2367
+    ]
+  },
+  {
+    "word": "global",
+    "token_ids": [
+      5534
+    ]
+  },
+  {
+    "word": "goal",
+    "token_ids": [
+      7306
+    ]
+  },
+  {
+    "word": "grow",
+    "token_ids": [
+      6548
+    ]
+  },
+  {
+    "word": "had",
+    "token_ids": [
+      750
+    ]
+  },
+  {
+    "word": "happy",
+    "token_ids": [
+      9796
+    ]
+  },
+  {
+    "word": "hard",
+    "token_ids": [
+      2898
+    ]
+  },
+  {
+    "word": "harm",
+    "token_ids": [
+      10311
+    ]
+  },
+  {
+    "word": "has",
+    "token_ids": [
+      756
+    ]
+  },
+  {
+    "word": "hate",
+    "token_ids": [
+      26277
+    ]
+  },
+  {
+    "word": "have",
+    "token_ids": [
+      505
+    ]
+  },
+  {
+    "word": "height",
+    "token_ids": [
+      3171
+    ]
+  },
+  {
+    "word": "help",
+    "token_ids": [
+      1371
+    ]
+  },
+  {
+    "word": "hero",
+    "token_ids": [
+      13444
+    ]
+  },
+  {
+    "word": "hide",
+    "token_ids": [
+      9563
+    ]
+  },
+  {
+    "word": "high",
+    "token_ids": [
+      1880
+    ]
+  },
+  {
+    "word": "home",
+    "token_ids": [
+      3271
+    ]
+  },
+  {
+    "word": "hot",
+    "token_ids": [
+      7375
+    ]
+  },
+  {
+    "word": "house",
+    "token_ids": [
+      3699
+    ]
+  },
+  {
+    "word": "hurt",
+    "token_ids": [
+      21682
+    ]
+  },
+  {
+    "word": "ice",
+    "token_ids": [
+      14890
+    ]
+  },
+  {
+    "word": "if",
+    "token_ids": [
+      565
+    ]
+  },
+  {
+    "word": "import",
+    "token_ids": [
+      1053
+    ]
+  },
+  {
+    "word": "in",
+    "token_ids": [
+      297
+    ]
+  },
+  {
+    "word": "inner",
+    "token_ids": [
+      6426
+    ]
+  },
+  {
+    "word": "insert",
+    "token_ids": [
+      4635
+    ]
+  },
+  {
+    "word": "install",
+    "token_ids": [
+      2601
+    ]
+  },
+  {
+    "word": "into",
+    "token_ids": [
+      964
+    ]
+  },
+  {
+    "word": "is",
+    "token_ids": [
+      338
+    ]
+  },
+  {
+    "word": "join",
+    "token_ids": [
+      5988
+    ]
+  },
+  {
+    "word": "jump",
+    "token_ids": [
+      12500
+    ]
+  },
+  {
+    "word": "king",
+    "token_ids": [
+      6989
+    ]
+  },
+  {
+    "word": "lamp",
+    "token_ids": [
+      28692
+    ]
+  },
+  {
+    "word": "last",
+    "token_ids": [
+      1833
+    ]
+  },
+  {
+    "word": "left",
+    "token_ids": [
+      2175
+    ]
+  },
+  {
+    "word": "length",
+    "token_ids": [
+      3309
+    ]
+  },
+  {
+    "word": "letter",
+    "token_ids": [
+      5497
+    ]
+  },
+  {
+    "word": "level",
+    "token_ids": [
+      3233
+    ]
+  },
+  {
+    "word": "light",
+    "token_ids": [
+      3578
+    ]
+  },
+  {
+    "word": "like",
+    "token_ids": [
+      763
+    ]
+  },
+  {
+    "word": "load",
+    "token_ids": [
+      2254
+    ]
+  },
+  {
+    "word": "local",
+    "token_ids": [
+      1887
+    ]
+  },
+  {
+    "word": "lock",
+    "token_ids": [
+      7714
+    ]
+  },
+  {
+    "word": "long",
+    "token_ids": [
+      1472
+    ]
+  },
+  {
+    "word": "loud",
+    "token_ids": [
+      22526
+    ]
+  },
+  {
+    "word": "love",
+    "token_ids": [
+      5360
+    ]
+  },
+  {
+    "word": "low",
+    "token_ids": [
+      4482
+    ]
+  },
+  {
+    "word": "lower",
+    "token_ids": [
+      5224
+    ]
+  },
+  {
+    "word": "mad",
+    "token_ids": [
+      10395
+    ]
+  },
+  {
+    "word": "make",
+    "token_ids": [
+      1207
+    ]
+  },
+  {
+    "word": "man",
+    "token_ids": [
+      767
+    ]
+  },
+  {
+    "word": "market",
+    "token_ids": [
+      9999
+    ]
+  },
+  {
+    "word": "mass",
+    "token_ids": [
+      4158
+    ]
+  },
+  {
+    "word": "match",
+    "token_ids": [
+      1993
+    ]
+  },
+  {
+    "word": "may",
+    "token_ids": [
+      1122
+    ]
+  },
+  {
+    "word": "memory",
+    "token_ids": [
+      3370
+    ]
+  },
+  {
+    "word": "merge",
+    "token_ids": [
+      10366
+    ]
+  },
+  {
+    "word": "might",
+    "token_ids": [
+      1795
+    ]
+  },
+  {
+    "word": "moon",
+    "token_ids": [
+      18786
+    ]
+  },
+  {
+    "word": "move",
+    "token_ids": [
+      4337
+    ]
+  },
+  {
+    "word": "music",
+    "token_ids": [
+      4696
+    ]
+  },
+  {
+    "word": "must",
+    "token_ids": [
+      1818
+    ]
+  },
+  {
+    "word": "near",
+    "token_ids": [
+      2978
+    ]
+  },
+  {
+    "word": "need",
+    "token_ids": [
+      817
+    ]
+  },
+  {
+    "word": "negative",
+    "token_ids": [
+      8178
+    ]
+  },
+  {
+    "word": "neutral",
+    "token_ids": [
+      21104
+    ]
+  },
+  {
+    "word": "new",
+    "token_ids": [
+      716
+    ]
+  },
+  {
+    "word": "next",
+    "token_ids": [
+      2446
+    ]
+  },
+  {
+    "word": "noise",
+    "token_ids": [
+      11462
+    ]
+  },
+  {
+    "word": "number",
+    "token_ids": [
+      1353
+    ]
+  },
+  {
+    "word": "ocean",
+    "token_ids": [
+      23474
+    ]
+  },
+  {
+    "word": "off",
+    "token_ids": [
+      1283
+    ]
+  },
+  {
+    "word": "office",
+    "token_ids": [
+      8034
+    ]
+  },
+  {
+    "word": "old",
+    "token_ids": [
+      2030
+    ]
+  },
+  {
+    "word": "on",
+    "token_ids": [
+      373
+    ]
+  },
+  {
+    "word": "open",
+    "token_ids": [
+      1722
+    ]
+  },
+  {
+    "word": "or",
+    "token_ids": [
+      470
+    ]
+  },
+  {
+    "word": "out",
+    "token_ids": [
+      714
+    ]
+  },
+  {
+    "word": "outer",
+    "token_ids": [
+      11420
+    ]
+  },
+  {
+    "word": "page",
+    "token_ids": [
+      1813
+    ]
+  },
+  {
+    "word": "parent",
+    "token_ids": [
+      3847
+    ]
+  },
+  {
+    "word": "path",
+    "token_ids": [
+      2224
+    ]
+  },
+  {
+    "word": "phone",
+    "token_ids": [
+      9008
+    ]
+  },
+  {
+    "word": "plane",
+    "token_ids": [
+      10694
+    ]
+  },
+  {
+    "word": "player",
+    "token_ids": [
+      4847
+    ]
+  },
+  {
+    "word": "point",
+    "token_ids": [
+      1298
+    ]
+  },
+  {
+    "word": "police",
+    "token_ids": [
+      10974
+    ]
+  },
+  {
+    "word": "pool",
+    "token_ids": [
+      11565
+    ]
+  },
+  {
+    "word": "poor",
+    "token_ids": [
+      6460
+    ]
+  },
+  {
+    "word": "port",
+    "token_ids": [
+      2011
+    ]
+  },
+  {
+    "word": "positive",
+    "token_ids": [
+      6374
+    ]
+  },
+  {
+    "word": "power",
+    "token_ids": [
+      3081
+    ]
+  },
+  {
+    "word": "print",
+    "token_ids": [
+      1596
+    ]
+  },
+  {
+    "word": "private",
+    "token_ids": [
+      2024
+    ]
+  },
+  {
+    "word": "public",
+    "token_ids": [
+      970
+    ]
+  },
+  {
+    "word": "pull",
+    "token_ids": [
+      8206
+    ]
+  },
+  {
+    "word": "push",
+    "token_ids": [
+      5503
+    ]
+  },
+  {
+    "word": "put",
+    "token_ids": [
+      1925
+    ]
+  },
+  {
+    "word": "queen",
+    "token_ids": [
+      26624
+    ]
+  },
+  {
+    "word": "quiet",
+    "token_ids": [
+      11813
+    ]
+  },
+  {
+    "word": "rain",
+    "token_ids": [
+      17251
+    ]
+  },
+  {
+    "word": "raw",
+    "token_ids": [
+      10650
+    ]
+  },
+  {
+    "word": "read",
+    "token_ids": [
+      1303
+    ]
+  },
+  {
+    "word": "red",
+    "token_ids": [
+      2654
+    ]
+  },
+  {
+    "word": "reduce",
+    "token_ids": [
+      10032
+    ]
+  },
+  {
+    "word": "refresh",
+    "token_ids": [
+      11086
+    ]
+  },
+  {
+    "word": "remove",
+    "token_ids": [
+      3349
+    ]
+  },
+  {
+    "word": "repair",
+    "token_ids": [
+      26032
+    ]
+  },
+  {
+    "word": "reset",
+    "token_ids": [
+      10092
+    ]
+  },
+  {
+    "word": "rich",
+    "token_ids": [
+      8261
+    ]
+  },
+  {
+    "word": "ride",
+    "token_ids": [
+      22203
+    ]
+  },
+  {
+    "word": "right",
+    "token_ids": [
+      1492
+    ]
+  },
+  {
+    "word": "rise",
+    "token_ids": [
+      14451
+    ]
+  },
+  {
+    "word": "river",
+    "token_ids": [
+      8580
+    ]
+  },
+  {
+    "word": "road",
+    "token_ids": [
+      6520
+    ]
+  },
+  {
+    "word": "rock",
+    "token_ids": [
+      7679
+    ]
+  },
+  {
+    "word": "roof",
+    "token_ids": [
+      17526
+    ]
+  },
+  {
+    "word": "room",
+    "token_ids": [
+      5716
+    ]
+  },
+  {
+    "word": "rough",
+    "token_ids": [
+      12164
+    ]
+  },
+  {
+    "word": "round",
+    "token_ids": [
+      4513
+    ]
+  },
+  {
+    "word": "run",
+    "token_ids": [
+      1065
+    ]
+  },
+  {
+    "word": "sad",
+    "token_ids": [
+      14610
+    ]
+  },
+  {
+    "word": "safe",
+    "token_ids": [
+      9109
+    ]
+  },
+  {
+    "word": "save",
+    "token_ids": [
+      4078
+    ]
+  },
+  {
+    "word": "scan",
+    "token_ids": [
+      12812
+    ]
+  },
+  {
+    "word": "school",
+    "token_ids": [
+      3762
+    ]
+  },
+  {
+    "word": "score",
+    "token_ids": [
+      8158
+    ]
+  },
+  {
+    "word": "screen",
+    "token_ids": [
+      4315
+    ]
+  },
+  {
+    "word": "scroll",
+    "token_ids": [
+      6355
+    ]
+  },
+  {
+    "word": "search",
+    "token_ids": [
+      2740
+    ]
+  },
+  {
+    "word": "select",
+    "token_ids": [
+      1831
+    ]
+  },
+  {
+    "word": "send",
+    "token_ids": [
+      3638
+    ]
+  },
+  {
+    "word": "set",
+    "token_ids": [
+      731
+    ]
+  },
+  {
+    "word": "shadow",
+    "token_ids": [
+      15504
+    ]
+  },
+  {
+    "word": "shape",
+    "token_ids": [
+      8267
+    ]
+  },
+  {
+    "word": "sharp",
+    "token_ids": [
+      15301
+    ]
+  },
+  {
+    "word": "shield",
+    "token_ids": [
+      28761
+    ]
+  },
+  {
+    "word": "ship",
+    "token_ids": [
+      7751
+    ]
+  },
+  {
+    "word": "shop",
+    "token_ids": [
+      18296
+    ]
+  },
+  {
+    "word": "short",
+    "token_ids": [
+      3273
+    ]
+  },
+  {
+    "word": "should",
+    "token_ids": [
+      881
+    ]
+  },
+  {
+    "word": "show",
+    "token_ids": [
+      1510
+    ]
+  },
+  {
+    "word": "silent",
+    "token_ids": [
+      17436
+    ]
+  },
+  {
+    "word": "singer",
+    "token_ids": [
+      15640
+    ]
+  },
+  {
+    "word": "size",
+    "token_ids": [
+      2159
+    ]
+  },
+  {
+    "word": "slow",
+    "token_ids": [
+      5232
+    ]
+  },
+  {
+    "word": "small",
+    "token_ids": [
+      2319
+    ]
+  },
+  {
+    "word": "smooth",
+    "token_ids": [
+      10597
+    ]
+  },
+  {
+    "word": "snow",
+    "token_ids": [
+      15007
+    ]
+  },
+  {
+    "word": "soft",
+    "token_ids": [
+      4964
+    ]
+  },
+  {
+    "word": "solar",
+    "token_ids": [
+      21635
+    ]
+  },
+  {
+    "word": "soldier",
+    "token_ids": [
+      20767
+    ]
+  },
+  {
+    "word": "song",
+    "token_ids": [
+      4823
+    ]
+  },
+  {
+    "word": "sort",
+    "token_ids": [
+      2656
+    ]
+  },
+  {
+    "word": "sound",
+    "token_ids": [
+      6047
+    ]
+  },
+  {
+    "word": "space",
+    "token_ids": [
+      2913
+    ]
+  },
+  {
+    "word": "speed",
+    "token_ids": [
+      6210
+    ]
+  },
+  {
+    "word": "spin",
+    "token_ids": [
+      10917
+    ]
+  },
+  {
+    "word": "split",
+    "token_ids": [
+      6219
+    ]
+  },
+  {
+    "word": "sport",
+    "token_ids": [
+      7980
+    ]
+  },
+  {
+    "word": "spring",
+    "token_ids": [
+      6709
+    ]
+  },
+  {
+    "word": "stage",
+    "token_ids": [
+      7408
+    ]
+  },
+  {
+    "word": "star",
+    "token_ids": [
+      5810
+    ]
+  },
+  {
+    "word": "start",
+    "token_ids": [
+      1369
+    ]
+  },
+  {
+    "word": "static",
+    "token_ids": [
+      2294
+    ]
+  },
+  {
+    "word": "station",
+    "token_ids": [
+      5073
+    ]
+  },
+  {
+    "word": "stop",
+    "token_ids": [
+      5040
+    ]
+  },
+  {
+    "word": "store",
+    "token_ids": [
+      3787
+    ]
+  },
+  {
+    "word": "storm",
+    "token_ids": [
+      14280
+    ]
+  },
+  {
+    "word": "street",
+    "token_ids": [
+      11952
+    ]
+  },
+  {
+    "word": "stretch",
+    "token_ids": [
+      16116
+    ]
+  },
+  {
+    "word": "strong",
+    "token_ids": [
+      4549
+    ]
+  },
+  {
+    "word": "student",
+    "token_ids": [
+      8368
+    ]
+  },
+  {
+    "word": "summer",
+    "token_ids": [
+      11801
+    ]
+  },
+  {
+    "word": "sun",
+    "token_ids": [
+      6575
+    ]
+  },
+  {
+    "word": "swap",
+    "token_ids": [
+      17945
+    ]
+  },
+  {
+    "word": "sweet",
+    "token_ids": [
+      14225
+    ]
+  },
+  {
+    "word": "sword",
+    "token_ids": [
+      22378
+    ]
+  },
+  {
+    "word": "table",
+    "token_ids": [
+      1591
+    ]
+  },
+  {
+    "word": "take",
+    "token_ids": [
+      2125
+    ]
+  },
+  {
+    "word": "teacher",
+    "token_ids": [
+      15703
+    ]
+  },
+  {
+    "word": "team",
+    "token_ids": [
+      3815
+    ]
+  },
+  {
+    "word": "test",
+    "token_ids": [
+      1243
+    ]
+  },
+  {
+    "word": "the",
+    "token_ids": [
+      278
+    ]
+  },
+  {
+    "word": "then",
+    "token_ids": [
+      769
+    ]
+  },
+  {
+    "word": "thin",
+    "token_ids": [
+      16835
+    ]
+  },
+  {
+    "word": "time",
+    "token_ids": [
+      931
+    ]
+  },
+  {
+    "word": "to",
+    "token_ids": [
+      304
+    ]
+  },
+  {
+    "word": "top",
+    "token_ids": [
+      2246
+    ]
+  },
+  {
+    "word": "tower",
+    "token_ids": [
+      19372
+    ]
+  },
+  {
+    "word": "track",
+    "token_ids": [
+      5702
+    ]
+  },
+  {
+    "word": "train",
+    "token_ids": [
+      7945
+    ]
+  },
+  {
+    "word": "tree",
+    "token_ids": [
+      5447
+    ]
+  },
+  {
+    "word": "true",
+    "token_ids": [
+      1565
+    ]
+  },
+  {
+    "word": "tunnel",
+    "token_ids": [
+      26086
+    ]
+  },
+  {
+    "word": "turn",
+    "token_ids": [
+      2507
+    ]
+  },
+  {
+    "word": "type",
+    "token_ids": [
+      1134
+    ]
+  },
+  {
+    "word": "up",
+    "token_ids": [
+      701
+    ]
+  },
+  {
+    "word": "update",
+    "token_ids": [
+      2767
+    ]
+  },
+  {
+    "word": "upload",
+    "token_ids": [
+      6441
+    ]
+  },
+  {
+    "word": "upper",
+    "token_ids": [
+      7568
+    ]
+  },
+  {
+    "word": "voice",
+    "token_ids": [
+      7314
+    ]
+  },
+  {
+    "word": "walk",
+    "token_ids": [
+      6686
+    ]
+  },
+  {
+    "word": "wall",
+    "token_ids": [
+      10090
+    ]
+  },
+  {
+    "word": "want",
+    "token_ids": [
+      864
+    ]
+  },
+  {
+    "word": "was",
+    "token_ids": [
+      471
+    ]
+  },
+  {
+    "word": "water",
+    "token_ids": [
+      4094
+    ]
+  },
+  {
+    "word": "weak",
+    "token_ids": [
+      8062
+    ]
+  },
+  {
+    "word": "weight",
+    "token_ids": [
+      7688
+    ]
+  },
+  {
+    "word": "were",
+    "token_ids": [
+      892
+    ]
+  },
+  {
+    "word": "wet",
+    "token_ids": [
+      7990
+    ]
+  },
+  {
+    "word": "when",
+    "token_ids": [
+      746
+    ]
+  },
+  {
+    "word": "where",
+    "token_ids": [
+      988
+    ]
+  },
+  {
+    "word": "while",
+    "token_ids": [
+      1550
+    ]
+  },
+  {
+    "word": "wide",
+    "token_ids": [
+      9377
+    ]
+  },
+  {
+    "word": "width",
+    "token_ids": [
+      2920
+    ]
+  },
+  {
+    "word": "wild",
+    "token_ids": [
+      8775
+    ]
+  },
+  {
+    "word": "will",
+    "token_ids": [
+      674
+    ]
+  },
+  {
+    "word": "wind",
+    "token_ids": [
+      8805
+    ]
+  },
+  {
+    "word": "window",
+    "token_ids": [
+      3474
+    ]
+  },
+  {
+    "word": "winter",
+    "token_ids": [
+      13851
+    ]
+  },
+  {
+    "word": "wire",
+    "token_ids": [
+      8014
+    ]
+  },
+  {
+    "word": "with",
+    "token_ids": [
+      411
+    ]
+  },
+  {
+    "word": "woman",
+    "token_ids": [
+      6114
+    ]
+  },
+  {
+    "word": "word",
+    "token_ids": [
+      1734
+    ]
+  },
+  {
+    "word": "would",
+    "token_ids": [
+      723
+    ]
+  },
+  {
+    "word": "wrap",
+    "token_ids": [
+      12244
+    ]
+  },
+  {
+    "word": "write",
+    "token_ids": [
+      2436
+    ]
+  },
+  {
+    "word": "writer",
+    "token_ids": [
+      9227
+    ]
+  },
+  {
+    "word": "young",
+    "token_ids": [
+      4123
+    ]
+  },
+  {
+    "word": "zoom",
+    "token_ids": [
+      19342
+    ]
+  },
+  {
+    "word": "noob",
+    "token_ids": [
+      694,
+      711
+    ]
+  },
+  {
+    "word": "pwned",
+    "token_ids": [
+      282,
+      1233,
+      287
+    ]
+  },
+  {
+    "word": "rekt",
+    "token_ids": [
+      337,
+      1193
+    ]
+  },
+  {
+    "word": "salty",
+    "token_ids": [
+      4497,
+      1017
+    ]
+  },
+  {
+    "word": "based",
+    "token_ids": [
+      2729
+    ]
+  },
+  {
+    "word": "cringe",
+    "token_ids": [
+      2181,
+      19144
+    ]
+  },
+  {
+    "word": "yeet",
+    "token_ids": [
+      8007,
+      300
+    ]
+  },
+  {
+    "word": "lit",
+    "token_ids": [
+      11872
+    ]
+  },
+  {
+    "word": "fam",
+    "token_ids": [
+      5216
+    ]
+  },
+  {
+    "word": "squad",
+    "token_ids": [
+      10023
+    ]
+  },
+  {
+    "word": "clutch",
+    "token_ids": [
+      1067,
+      10519
+    ]
+  },
+  {
+    "word": "epic",
+    "token_ids": [
+      9358,
+      293
+    ]
+  },
+  {
+    "word": "scrub",
+    "token_ids": [
+      14387,
+      431
+    ]
+  },
+  {
+    "word": "cheese",
+    "token_ids": [
+      923,
+      968
+    ]
+  },
+  {
+    "word": "camp",
+    "token_ids": [
+      4242
+    ]
+  },
+  {
+    "word": "spawn",
+    "token_ids": [
+      29178
+    ]
+  },
+  {
+    "word": "respawn",
+    "token_ids": [
+      620,
+      3274,
+      1233
+    ]
+  },
+  {
+    "word": "nerf",
+    "token_ids": [
+      26033,
+      29888
+    ]
+  },
+  {
+    "word": "buff",
+    "token_ids": [
+      20487
+    ]
+  },
+  {
+    "word": "meta",
+    "token_ids": [
+      12700
+    ]
+  },
+  {
+    "word": "grind",
+    "token_ids": [
+      867,
+      513
+    ]
+  },
+  {
+    "word": "farm",
+    "token_ids": [
+      17888
+    ]
+  },
+  {
+    "word": "loot",
+    "token_ids": [
+      658,
+      327
+    ]
+  },
+  {
+    "word": "gg",
+    "token_ids": [
+      20775
+    ]
+  },
+  {
+    "word": "throw",
+    "token_ids": [
+      3183
+    ]
+  },
+  {
+    "word": "toxic",
+    "token_ids": [
+      304,
+      27375
+    ]
+  },
+  {
+    "word": "sus",
+    "token_ids": [
+      2858
+    ]
+  },
+  {
+    "word": "sweaty",
+    "token_ids": [
+      7901,
+      11156
+    ]
+  },
+  {
+    "word": "tryhard",
+    "token_ids": [
+      1018,
+      6800
+    ]
+  },
+  {
+    "word": "smurf",
+    "token_ids": [
+      1560,
+      332,
+      29888
+    ]
+  },
+  {
+    "word": "afk",
+    "token_ids": [
+      2511,
+      29895
+    ]
+  },
+  {
+    "word": "good",
+    "token_ids": [
+      1781
+    ]
+  },
+  {
+    "word": "bro",
+    "token_ids": [
+      2545
+    ]
+  }
+]

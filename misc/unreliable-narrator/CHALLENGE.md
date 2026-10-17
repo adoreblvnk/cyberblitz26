@@ -1,0 +1,1 @@
+Got drunk at the ePUB and now the pages are blurry, the plot makes no sense, and the narrator is telling me things that never happened. I'm starting to think the copy I was handed isn't the only printing.

@@ -1,0 +1,1 @@
+The firmware image contains a per-frame CAN handler, not a player for the supplied log. Reverse its transition logic, replay the captured frames from the controller's zero-initialized state, and recover the maintenance message from the emitted labels.

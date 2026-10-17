@@ -1,0 +1,47 @@
+{
+	"modulus": 170141183460469231731687303715884105727,
+	"registry": [
+		{
+			"slot": 1,
+			"raw_identity": "IRIS",
+			"masked_share": 54903519228339493178309182669062299743
+		},
+		{
+			"slot": 2,
+			"raw_identity": "ＯＲＣＨＩＤ",
+			"masked_share": 81068549719043390256956967136328961931
+		},
+		{
+			"slot": 3,
+			"raw_identity": "AZALEA",
+			"masked_share": 50356848241808115793836860393549533428
+		},
+		{
+			"slot": 4,
+			"raw_identity": "orchid",
+			"masked_share": 96235716662018171509273176152274540098
+		},
+		{
+			"slot": 5,
+			"raw_identity": "LOTUS",
+			"masked_share": 53725084420920753694431282088206382399
+		},
+		{
+			"slot": 6,
+			"raw_identity": "ORCHID",
+			"masked_share": 101636954565953313570072511173117208855
+		},
+		{
+			"slot": 7,
+			"raw_identity": "ＪＡＳＭＩＮＥ",
+			"masked_share": 47900729572503183460071222576510053871
+		},
+		{
+			"slot": 8,
+			"raw_identity": "ｏｒｃｈｉｄ",
+			"masked_share": 70646428080792639794547112285787659716
+		}
+	],
+	"secret_commitment": "75c4b09ac29b0237ecfc274b2a3d322972190c43dd63d63f915a1ae6c1712e77",
+	"sealed": "JB1en0hYaD/HYFUfIqs8hxHaVlPfe/BVPaeOGKyw6os4cXDjKzcn"
+}
